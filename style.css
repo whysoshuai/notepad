@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: black;
+  background-color: #007bff;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 80%;
+  min-height: 200px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: royalblue;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+button:hover{
+  background: rgb(152, 152, 255);
+  transition: 1s;
+  color: white;
+}
